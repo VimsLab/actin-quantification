@@ -1,0 +1,4 @@
+CLEAREST:
+  INPUT: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/seg/2019_nb_1080_single.txt'
+  OUTPUT: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/cls_reg/tmp_clearest.txt'
+  EXPOSURES: [9,10,11,12,13]

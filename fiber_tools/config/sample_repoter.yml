@@ -1,0 +1,8 @@
+SAM:
+  RADIUS: '/opt/fte/users/chrgao/code/torch_fruit/output/default/train_fiber_dataset_classify/run2/test_ouput/2019_for_test_filter_radius.txt' 
+  GT: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/cls_reg/2019_for_test_filter.txt'
+  FC: '/opt/fte/users/chrgao/code/torch_fruit/output/default/train_fiber_dataset_classify/run2/test_ouput/_fc.npy'
+  OUTPUT_DIR: '/opt/fte/users/chrgao/code/torch_fruit/output/default/train_fiber_dataset_classify/run2/test_ouput/'
+  LABELS: ['MIAN', 'ZHUMA', 'YAMA', 'MIAN_ZHUMA', 'MIAN_YAMA', 'MAO_RONG', 'MAO', 'RONG']
+  CLS_FILTER_THRES: [0.0, 0.0, 0.0, 0.0, 0.0]
+  CLS_ERROR_RATE: 0.05

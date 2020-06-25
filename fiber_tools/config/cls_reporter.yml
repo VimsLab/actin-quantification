@@ -1,0 +1,12 @@
+CLS:
+  GT: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/cls_reg/tmp_single_fiber_test_by_sampler.txt'
+  # GT: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/cls_reg/2019_for_test_filter.txt'
+  FC: '/opt/fte/users/chrgao/code/torch_fruit/output/default/train_fiber_dataset_classify/run2/test_ouput/_fc.npy'
+  CAM:
+    ENABLE: True
+    PREDICT: '/opt/fte/users/chrgao/code/torch_fruit/output/default/train_fiber_dataset_classify/run2/test_ouput/_cam_predict.npy'
+    GT: '/opt/fte/users/chrgao/code/torch_fruit/output/default/train_fiber_dataset_classify/run2/test_ouput/_cam_target.npy'
+  TOPK:
+    K: [1]
+  OUTPUT_DIR: '/opt/fte/users/chrgao/code/torch_fruit/output/default/train_fiber_dataset_classify/run2/test_ouput/'
+  LABELS: ['mian', 'zhuma', 'yama', 'mao', 'rong']

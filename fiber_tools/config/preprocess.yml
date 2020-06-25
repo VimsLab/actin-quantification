@@ -1,0 +1,11 @@
+# PREPROCCESS:
+#   INPUT_DIR: '/opt/FTE/users/chrgao/datasets/Textile/origin_img/NB/棉/'
+#   OUTPUT_File: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/seg/2019_hdr_test.txt'
+
+# PREPROCCESS:
+#   INPUT_DIR: '/opt/FTE/users/chrgao/datasets/Textile/origin_img/test_image/'
+#   OUTPUT_File: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/seg/2019_for_test.txt'
+
+PREPROCCESS:
+  INPUT_DIR: '/opt/FTE/users/chrgao/datasets/Textile/single_fiber/test_image'
+  OUTPUT_File: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/cls_reg/2019_for_test.txt'

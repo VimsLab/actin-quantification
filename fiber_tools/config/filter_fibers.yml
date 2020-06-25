@@ -1,0 +1,9 @@
+FILTER:
+  # INPUT: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/cls_reg/tmp_clearest.txt'
+  # OUTPUT: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/cls_reg/tmp_filter.txt'
+  INPUT: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/cls_reg/2019_for_test.txt'
+  OUTPUT: '/opt/FTE/users/chrgao/datasets/Textile/data_annotation/txt_format/cls_reg/2019_for_test_filter.txt'
+  SIZE_THRES: 0.005
+  BLUR_THRES: 9.0
+  STRIPE_BLUR_THRES: -10.0
+  STRIPE_SIDE_THRES: 2.5
