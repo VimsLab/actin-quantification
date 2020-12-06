@@ -1,6 +1,24 @@
-# actin-quantification
+Actin-quantification
+-------
+This repo is based on the following two papers:
 
-Work is written in paper  QUANTIFYING ACTIN FILAMENTS IN MICROSCOPIC IMAGES USING KEYPOINT DETECTION TECHNIQUES AND A FAST MARCHING ALGORITHM
-The paper is accpeted in ICIP2020.
+* Yi Liu, Alexander Nedo, Kody Seward, Jeffrey Caplan, Chandra Kambhamettu, Quantifying Actin Filaments in Microscopic Images using Keypoint Detection Techniques and A Fast Marching Algorithm, ICIP, 2020. [link](https://ieeexplore.ieee.org/document/9191337)
 
-Work is still in progress for future improvement.
+Environment Configuration
+----------------------
+Anaconda enviroment file **junction2.yml**
+
+Dataset
+-------
+Collected dataset
+* Actin dataset
+* Synthetic dataset
+
+Usage: 
+------------
+We are working on a more user friendly version of the code.
+
+
+
+
+
