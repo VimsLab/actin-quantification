@@ -1,6 +1,6 @@
 Actin-quantification
 -------
-This repo is based on the following two papers:
+This repo is based on the following paper:
 
 * Yi Liu, Alexander Nedo, Kody Seward, Jeffrey Caplan, Chandra Kambhamettu, Quantifying Actin Filaments in Microscopic Images using Keypoint Detection Techniques and A Fast Marching Algorithm, ICIP, 2020. [link](https://ieeexplore.ieee.org/document/9191337)
 
