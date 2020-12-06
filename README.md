@@ -16,7 +16,7 @@ Collected dataset
 
 Usage: 
 ------------
-We are working on a more user friendly version of the code.
+We are working on a more user friendly version of the code, to be released soon
 
 
 
